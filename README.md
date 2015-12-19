@@ -10,4 +10,5 @@
 ## Utilisation ##
    * Block all pages except group and message pages
    * Control+Y to stop/restart the script
+   * Click to see a few second the page
 
