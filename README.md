@@ -4,7 +4,7 @@
    * Install GreyseMonkey on firefox or chrome
    * Create a new Script
    * Add https://www.facebook./* in namespace
-   * Copy facebook_for_work.js 
+   * Copy facebook_for_work.js in the new script you create (delete the previous header by default)
 
 - - - -
 ## Use ##
