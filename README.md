@@ -1,4 +1,4 @@
-# Script GreyseMonkey
+# Script GreaseMonkey
 ![alt tag](https://michellewray.files.wordpress.com/2012/09/facebook.jpg?w=529&h=212)
 ## Installation ##
    * Install GreyseMonkey on firefox or chrome
